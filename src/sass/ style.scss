@@ -1,0 +1,32 @@
+/*
+*Theme Name: Your wordpress theme // for wordpress users
+*Theme URI: http://craftcode.design
+*Template: your-wordpress-theme
+*Author: Malith Priyashan
+*Author URI: http://malith.dev
+*Text Domain: your-wordpress-theme
+*Description: Wordpress ready BEM SCSS starter
+*Version: 1.0.0
+*License: GNU General Public License v2 or later
+*License URI: LICENSE
+*/
+
+
+
+/*--------------------------------------------------------------
+# Core
+--------------------------------------------------------------*/
+@import "core/all";
+
+
+/*--------------------------------------------------------------
+# Modules
+--------------------------------------------------------------*/
+@import "modules/all";
+
+
+/*--------------------------------------------------------------
+# Pages
+--------------------------------------------------------------*/
+@import "pages/all";
+
